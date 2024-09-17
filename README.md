@@ -5,7 +5,6 @@ Fullstack Developer
 -------------------
 
 * 🌍  I'm based in Jakarta
-* 🖥️  See my portfolio at [link](http://revoarya.com)
 * ✉️  You can contact me at [revoarya07@gmail.com](mailto:revoarya07@gmail.com)
 * 🚀  I'm currently working on [projects](http://projects.revoarya.com)
 
